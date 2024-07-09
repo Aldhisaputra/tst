@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/all.min.css">
     <style>
         body {
-            background: linear-gradient(45deg, #1d2b64, #f8cdda);
+            background: dodgerblue;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -47,7 +47,7 @@
             margin-bottom: 20px;
         }
         .input-group-text {
-            background-color: #f8cdda;
+            background-color: dodgerblue;
             border: none;
         }
         .form-control {
