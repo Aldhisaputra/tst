@@ -114,9 +114,6 @@
             <button type="submit" class="btn btn-dark btn-login btn-block">Login</button>
         </div>
         <?php echo form_close(); ?>
-        <div class="footer">
-            <p>&copy; <?php echo date('Y'); ?> Your Company. All Rights Reserved.</p>
-        </div>
     </div>
 
     <script src="<?php echo base_url(); ?>assets/js/jquery.min.js"></script>

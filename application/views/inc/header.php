@@ -62,6 +62,10 @@
                 <li class="nav-item">
                     <a class="nav-link" href="<?php echo base_url(); ?>employee/attendance">History Absensi</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="<?php echo base_url(); ?>employee/dashboard">Evaluasi Karyawan</a>
+                </li>
+                
                 <?php } ?>
             </ul>
         </div>
