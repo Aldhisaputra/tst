@@ -79,7 +79,7 @@
                         <b>Tanggal Lahir:</b>&nbsp;&nbsp;<?php echo $employee->dob; ?>
                     </div>
                     <div class="form-group">
-                        <b>Tanggal Bergabung:</b>&nbsp;&nbsp;<?php echo $employee->doj; ?>
+                        <b>Jabatan:</b>&nbsp;&nbsp;<?php echo $employee->doj; ?>
                     </div>
                     <div class="form-group">
                         <b>Status:</b>&nbsp;&nbsp;<?php echo $employee->status == '1' ? 'Active' : 'Not Active'; ?>

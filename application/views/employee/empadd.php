@@ -81,8 +81,8 @@
                     <input type="date" class="form-control" id="dob" name="dob" placeholder="Tanggal Lahir" value="<?php echo set_value('dob'); ?>">
                 </div>
                 <div class="form-group">
-                    <label for="doj">Tanggal Bergabung</label>
-                    <input type="date" class="form-control" id="doj" name="doj" placeholder="Tanggal Bergabung" value="<?php echo set_value('doj'); ?>">
+                    <label for="doj">Jabatan</label>
+                    <input type="text" class="form-control" id="doj" name="doj" placeholder="Jabatan" value="<?php echo set_value('doj'); ?>">
                 </div>
                 <div class="custom-control custom-checkbox mb-3">
                     <input type="checkbox" class="custom-control-input" id="customCheck" name="status" value="1" checked>

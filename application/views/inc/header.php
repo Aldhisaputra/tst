@@ -3,7 +3,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="UTF-8">
-    <title>Employee Attendance</title>
+    <title>Karyawan</title>
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/all.min.css">
@@ -61,9 +61,6 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="<?php echo base_url(); ?>employee/attendance">History Absensi</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="<?php echo base_url(); ?>employee/dashboard">Evaluasi Karyawan</a>
                 </li>
                 
                 <?php } ?>

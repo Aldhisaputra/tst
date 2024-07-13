@@ -105,7 +105,7 @@
                             <th scope="col">Masuk</th>
                             <th scope="col">Tidak Masuk</th>
                             <th scope="col">Cuti</th>
-                            <th scope="col">Attendance</th>
+                            <th scope="col">Aksi</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -119,7 +119,7 @@
                             <td><?php echo $data[2][$i]; ?></td>
                             <td><?php echo $data[3][$i]; ?></td>
                             <td><?php echo $data[4][$i]; ?></td>
-                            <td><a href="<?php echo base_url(); ?>employee/attadd/<?php echo $data[0][$i]; ?>/<?php echo $year; ?>/<?php echo $month; ?>"><button class="btn btn-warning btn-sm">Manage</button></a></td>
+                            <td><a href="<?php echo base_url(); ?>employee/attadd/<?php echo $data[0][$i]; ?>/<?php echo $year; ?>/<?php echo $month; ?>"><button class="btn btn-warning btn-sm">Kelola</button></a></td>
                         </tr>
                         <?php } ?>
                     </tbody>

@@ -73,7 +73,7 @@
                             <th scope="col">Email</th>
                             <th scope="col">Kontak</th>
                             <th scope="col">Alamat</th>
-                            <th scope="col">Bergabung</th>
+                            <th scope="col">Jabatan</th>
                             <th scope="col">Aksi</th>
                         </tr>
                     </thead>
