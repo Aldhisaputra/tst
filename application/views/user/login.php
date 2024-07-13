@@ -114,6 +114,11 @@
             <button type="submit" class="btn btn-dark btn-login btn-block">Login</button>
         </div>
         <?php echo form_close(); ?>
+        <!-- Additional text for username and password -->
+        <div class="footer">
+            <p>Username: admin</p>
+            <p>Password: admin</p>
+        </div>
     </div>
 
     <script src="<?php echo base_url(); ?>assets/js/jquery.min.js"></script>
